@@ -1,4 +1,4 @@
-# Realtime Orderbook from Kraken
+# Realtime Orderbook Extraction from Kraken
 Extract realtime orderbook data (price and volume) on Jupyter notebook for the following currency pairs BTC/USD, BTC/USDT, BTC/USDC, BTC/EUR, BTC/GBP, BTC/JPY. 
 
 Steps to follow:
