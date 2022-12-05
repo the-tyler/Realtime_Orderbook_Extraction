@@ -1,8 +1,6 @@
-#!/usr/bin/env python3
-
 # Kraken Websocket API Order Book
 #
-# Usage: ./krakenwsbook.py symbol depth
+# Usage: Run the following line in your notebook's shell by replacing symbol and depth with your choice: ./krakenwsbook.py {symbol} {depth}
 
 import sys
 import json
